@@ -1,4 +1,4 @@
-package com.hfad.bitsandpizzas;
+package com.hfad.bitsandpizzas.ui.pizza;
 
 import android.graphics.drawable.Drawable;
 import android.support.v4.content.ContextCompat;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.view.View;
+
+import com.hfad.bitsandpizzas.R;
 
 /**
  * Created by davidg on 04/05/2017.

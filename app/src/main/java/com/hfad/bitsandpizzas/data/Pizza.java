@@ -1,4 +1,6 @@
-package com.hfad.bitsandpizzas;
+package com.hfad.bitsandpizzas.data;
+
+import com.hfad.bitsandpizzas.R;
 
 /**
  * Created by davidg on 04/05/2017.

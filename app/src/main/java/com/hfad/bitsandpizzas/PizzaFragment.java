@@ -10,6 +10,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.content.Intent;
 
+import com.hfad.bitsandpizzas.data.Pizza;
+import com.hfad.bitsandpizzas.ui.pizza.PizzaDetailActivity;
+
 /**
  * A simple {@link Fragment} subclass.
  */

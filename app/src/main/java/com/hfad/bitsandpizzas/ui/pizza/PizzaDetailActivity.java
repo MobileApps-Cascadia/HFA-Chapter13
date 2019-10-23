@@ -1,4 +1,4 @@
-package com.hfad.bitsandpizzas;
+package com.hfad.bitsandpizzas.ui.pizza;
 
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.ActionBar;
@@ -7,6 +7,9 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.hfad.bitsandpizzas.R;
+import com.hfad.bitsandpizzas.data.Pizza;
 
 public class PizzaDetailActivity extends AppCompatActivity {
     public static final String EXTRA_PIZZA_ID = "pizzaId";

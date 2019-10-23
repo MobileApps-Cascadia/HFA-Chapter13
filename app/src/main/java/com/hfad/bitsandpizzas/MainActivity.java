@@ -14,6 +14,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.hfad.bitsandpizzas.ui.main.TopFragment;
+import com.hfad.bitsandpizzas.ui.pasta.PastaFragment;
+
 public class MainActivity extends AppCompatActivity {
     private ShareActionProvider shareActionProvider;
 

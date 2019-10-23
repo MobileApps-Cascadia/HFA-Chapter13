@@ -16,6 +16,8 @@ import android.view.MenuItem;
 
 import com.hfad.bitsandpizzas.ui.main.TopFragment;
 import com.hfad.bitsandpizzas.ui.pasta.PastaFragment;
+import com.hfad.bitsandpizzas.ui.pizza.PizzaFragment;
+import com.hfad.bitsandpizzas.ui.stores.StoresFragment;
 
 public class MainActivity extends AppCompatActivity {
     private ShareActionProvider shareActionProvider;

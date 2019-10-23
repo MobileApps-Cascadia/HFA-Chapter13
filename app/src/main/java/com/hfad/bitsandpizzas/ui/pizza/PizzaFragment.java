@@ -1,4 +1,4 @@
-package com.hfad.bitsandpizzas;
+package com.hfad.bitsandpizzas.ui.pizza;
 
 
 import android.os.Bundle;
@@ -10,6 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.content.Intent;
 
+import com.hfad.bitsandpizzas.ui.pizza.CaptionedImagesAdapter;
+import com.hfad.bitsandpizzas.R;
 import com.hfad.bitsandpizzas.data.Pizza;
 import com.hfad.bitsandpizzas.ui.pizza.PizzaDetailActivity;
 

@@ -14,6 +14,11 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.hfad.bitsandpizzas.ui.pasta.PastaFragment;
+import com.hfad.bitsandpizzas.ui.pizza.PizzaFragment;
+import com.hfad.bitsandpizzas.ui.stores.StoresFragment;
+import com.hfad.bitsandpizzas.ui.main.TopFragment;
+
 public class MainActivity extends AppCompatActivity {
     private ShareActionProvider shareActionProvider;
 
